@@ -11,5 +11,3 @@ const total = calculateTotal(price, quantity);
 
 console.log("Total:", total);
 
-// ❌ Intentional error: undefinedFunction does not exist
-undefinedFunction();
